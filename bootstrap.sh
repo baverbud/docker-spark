@@ -30,3 +30,5 @@ then
 else
 	/bin/bash -c "$*"
 fi
+
+# vim: set ff=unix
